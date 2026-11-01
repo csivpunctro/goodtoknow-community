@@ -2,14 +2,16 @@
 
 ## Română
 
-Nu raporta public vulnerabilități de securitate, date personale expuse, tokenuri sau parole în Issues și Discussions.
+Raportează vulnerabilitățile în mod privat prin [GitHub Security, Report a vulnerability](https://github.com/csivpunctro/goodtoknow-community/security). Deschide fila **Security and quality**, apoi selectează **Report a vulnerability**. Echipa a activat această opțiune pentru repository-ul public.
 
-Contactează administratorii printr-un canal privat, stabilit și publicat de echipă înainte de deschiderea repository-ului pentru contribuții. Nu încerca exploatarea sau accesarea datelor altor utilizatori.
+Nu publica în Issues sau Discussions detalii despre vulnerabilități, chei, parole, sesiuni ori date personale. Descrie problema și impactul în formularul privat, fără a accesa sau distribui datele altora.
+
+Acest repository este destinat colaborării publice. Codul și infrastructura aplicației sunt în alt repository, privat. Vulnerabilitățile care privesc serviciul în sine trebuie raportate confidențial, nu printr-o discuție publică.
 
 ## English
 
-Do not disclose security vulnerabilities, exposed personal data, tokens, or passwords in public Issues or Discussions.
+Privately report vulnerabilities using [GitHub Security, Report a vulnerability](https://github.com/csivpunctro/goodtoknow-community/security). Open the **Security and quality** tab, then select **Report a vulnerability**. The maintainers have enabled this feature for the public repository.
 
-Use the private reporting channel designated by the maintainers before the community repository opens for contributions. Do not attempt to exploit vulnerabilities or access other users' data.
+Do not share vulnerabilities, access tokens, passwords, session details, or personal data in public Issues or Discussions. Describe the problem and its impact through the private report form without accessing or disclosing other people's data.
 
-Maintainer action before publication: configure GitHub private vulnerability reporting or provide a verified contact channel and update this file. Do not open public security submissions until this is configured.
+This repository is a public collaboration space. The application's code and infrastructure live in a separate private repository. Report vulnerabilities affecting the service confidentially, not in a public discussion.
