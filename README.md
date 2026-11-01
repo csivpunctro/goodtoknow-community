@@ -8,7 +8,7 @@ Bine ai venit în spațiul public de colaborare GoodToKnow.ro.
 
 GoodToKnow este o comunitate generalistă în română și engleză, dedicată întrebărilor, experiențelor, recomandărilor și explicațiilor utile.
 
-Aici poți contribui la **îmbunătățirea platformei**: idei, sugestii de design, raportări de erori, propuneri de accesibilitate, traduceri și testare.
+Aici poți contribui la **îmbunătățirea platformei**: idei, sugestii de design, raportări de erori, propuneri de accesibilitate, traduceri și raportări de probleme.
 
 - **Discussions:** idei, întrebări despre evoluția produsului și sondaje.
 - **Issues:** erori reproductibile și sarcini acceptate.
@@ -26,7 +26,7 @@ Welcome to the public GoodToKnow.ro collaboration space.
 
 GoodToKnow is a general-interest Romanian and English community for practical questions, experiences, recommendations, and explanations.
 
-You can help **improve the platform** with ideas, design suggestions, bug reports, accessibility improvements, translations, and beta testing.
+You can help **improve the platform** with ideas, design suggestions, bug reports, accessibility improvements, translations, and issue reports.
 
 - **Discussions:** ideas, product discussions, and polls.
 - **Issues:** reproducible bugs and accepted work items.
