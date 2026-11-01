@@ -1,7 +1,6 @@
 name: "Improvement / Propune o îmbunătățire"
 description: "Help make GoodToKnow better / Ajută la îmbunătățirea GoodToKnow"
 title: "[Idea] "
-labels: ["idea", "needs-triage"]
 body:
   - type: markdown
     attributes:
