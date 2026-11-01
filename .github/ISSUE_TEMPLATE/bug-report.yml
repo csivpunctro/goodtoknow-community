@@ -1,0 +1,40 @@
+name: "Bug report / Raportează o eroare"
+description: "Public reproducible bug / Eroare publică reproductibilă"
+title: "[Bug] "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Nu publica date personale sau vulnerabilități. / Do not post personal data or security vulnerabilities.
+  - type: dropdown
+    id: language
+    attributes:
+      label: "Language / Limba"
+      options: [Romanian, English, Both]
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: "Affected public page / Pagina publică afectată"
+      placeholder: "https://goodtoknow.ro/ro/..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Reproduction steps / Pași de reproducere"
+      placeholder: "1. ...\n2. ..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected vs actual / Așteptat și obținut"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: "Browser, device and accessibility settings / Browser, dispozitiv și setări de accesibilitate"
