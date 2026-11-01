@@ -1,7 +1,6 @@
 name: "Bug report / Raportează o eroare"
 description: "Public reproducible bug / Eroare publică reproductibilă"
 title: "[Bug] "
-labels: ["bug", "needs-triage"]
 body:
   - type: markdown
     attributes:
