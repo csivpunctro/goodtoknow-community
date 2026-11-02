@@ -1,0 +1,32 @@
+name: "Improvement / Propune o îmbunătățire"
+description: "Help make GoodToKnow better / Ajută la îmbunătățirea GoodToKnow"
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Preferă Discussions pentru idei generale. Nu posta date personale. / Prefer Discussions for general brainstorming. No personal data.
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Problem / Problema"
+      description: "What is difficult today? / Ce este dificil astăzi?"
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "Suggested improvement / Îmbunătățire propusă"
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: "How could this be tested? / Cum putem verifica rezultatul?"
+  - type: dropdown
+    id: languages
+    attributes:
+      label: "Affected interface languages / Limbi afectate"
+      options: [Romanian, English, Both]
+    validations:
+      required: true
